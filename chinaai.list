@@ -9,5 +9,5 @@ DOMAIN,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 #  谷歌商店
-domain,services.googleapis.cn
-domain,xn--ngstr-lra8j.com
+DOMAIN,googleapis.cn
+DOMAIN,xn--ngstr-lra8j.com
