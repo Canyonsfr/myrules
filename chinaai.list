@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,anthropic.com
 #  谷歌商店
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,googleapis.cn
