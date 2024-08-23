@@ -8,8 +8,3 @@ DOMAIN,claude.ai
 DOMAIN,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
-#  谷歌商店
-DOMAIN,services.googleapis.cn
-DOMAIN,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
