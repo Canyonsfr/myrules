@@ -10,5 +10,5 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 # 国内限免的网站
 DOMAIN-SUFFIX,appadvice.com
-# 谷歌商店
-DOMAIN-SUFFIX,services.googleapis.cn
+#  漏网之鱼网站  
+DOMAIN-SUFFIX,digitalnomadlc.com
