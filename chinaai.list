@@ -1,14 +1,3 @@
 # ciciai字条跳动的ai模型
 DOMAIN-KEYWORD,ciciai
 DOMAIN-SUFFIX,ciciai.com
-#  IPLC线路的机场
-DOMAIN-SUFFIX,ssrdog.com
-# claude智能AI模型
-DOMAIN,claude.ai
-DOMAIN,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
-# 国内限免的网站
-DOMAIN-SUFFIX,appadvice.com
-#  漏网之鱼网站  
-DOMAIN-SUFFIX,digitalnomadlc.com
