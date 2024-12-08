@@ -77,8 +77,6 @@
     { "tag": "🍏 Apple", "type": "selector", "outbounds": ["🎯 全球直连", "🇭🇰 香港节点", "🇯🇵 日本节点", "🇺🇲 美国节点"] },
     { "tag": "🐠 漏网之鱼", "type": "selector", "outbounds": ["🚀 节点选择","🎯 全球直连"] },
     { "tag": "🐸 手动切换", "type": "selector", "outbounds": ["{all}"]},
-	
-
     { "tag": "🇸🇬 新加坡节点", "type": "selector", "outbounds": ["    {all}"], "filter": [    { "action": "include", "keywords": ["新加坡|singapore|sg|狮城|滨海湾|sentosa"] }] },
     { "tag": "🇯🇵 日本节点", "type": "selector", "outbounds": ["    {all}"], "filter": [    { "action": "include", "keywords": ["日本|japan|jp|东京|tokyo|大阪|osaka|京都|kyoto"] }] },
     { "tag": "🇰🇷 韩国节点", "type": "selector", "outbounds": ["    {all}"], "filter": [    { "action": "include", "keywords": ["韩国|korea|kr|首尔|seoul|釜山|busan|济州岛|jeju"] }] },
